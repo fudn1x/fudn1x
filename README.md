@@ -7,8 +7,8 @@
 ### 🧑‍💻 About Me
 - 🔴 **Red-Team enthusiast** – offensive security, exploitation & automation  
 - 🛠️ I turn coffee & shell scripts into initial access, persistence and privesc  
-- 🌍 Open-source believer & perpetual learner  
--🐍 Python Dev focused on automation, bots, and offensive security scripts
+- 🌍 Open-source believer & perpetual learner
+- 🐍 Python Dev focused on automation, bots, and offensive security scripts
 
 ### 🔧 Tech Stack / Toolbelt  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
